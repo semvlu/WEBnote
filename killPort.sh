@@ -1,0 +1,1 @@
+npx kill-port <port#> # kill unterminated port
